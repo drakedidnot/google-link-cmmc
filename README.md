@@ -14,6 +14,8 @@ https://brave.com
 
 https://cloud.boosteroid.com/dashboard
 
+https://chatgpt.com
+
 [Brave Search](https://search.brave.com/)
 
 <a href="https://search.brave.com/" target="_self">Brave Search</a>
