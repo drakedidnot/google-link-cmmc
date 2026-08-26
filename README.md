@@ -49,3 +49,5 @@ https://www.xbox.com/en-us/play
 https://cloud.boosteroid.com/
 
 https://cloud.boosteroid.com
+
+https://remotedesktop.google.com
