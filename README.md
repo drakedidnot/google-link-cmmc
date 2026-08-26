@@ -28,3 +28,5 @@ https://search.brave.com/
 
 https://cloud.boosteroid.com/auth/start
 
+[Bing](https://www.bing.com/)
+
