@@ -30,3 +30,7 @@ https://cloud.boosteroid.com/auth/start
 
 [Bing](https://www.bing.com/)
 
+https://www.startpage.com/en/
+
+
+
