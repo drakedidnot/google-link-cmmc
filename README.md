@@ -45,3 +45,7 @@ https://play.geforcenow.com/mall/
 https://play.geforcenow.com
 
 https://www.xbox.com/en-us/play
+
+cloud.boosteroid.com
+
+https://cloud.boosteroid.com
