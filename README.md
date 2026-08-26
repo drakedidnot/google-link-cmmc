@@ -34,7 +34,7 @@ https://www.startpage.com/en/
 
 https://www.startpage.com
 
-https://cloud.boosteroid.com/dashboard/
+https://boosteroid.com/dashboard/
 
 https://search.brave.com/search?q=boosteriod+dashboard&source=web
 
