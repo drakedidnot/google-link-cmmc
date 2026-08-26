@@ -32,5 +32,7 @@ https://cloud.boosteroid.com/auth/start
 
 https://www.startpage.com/en/
 
+https://www.startpage.com
+
 
 
