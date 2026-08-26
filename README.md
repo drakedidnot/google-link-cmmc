@@ -1,4 +1,4 @@
-# google-link-cmmc
+lol# google-link-cmmc
 Google link
 https://www.google.com
 
@@ -38,4 +38,10 @@ https://cloud.boosteroid.com/dashboard
 
 https://search.brave.com/search?q=boosteriod+dashboard&source=web
 
+https://boosteroid.com/games/
 
+https://play.geforcenow.com/mall/
+
+https://play.geforcenow.com
+
+https://www.xbox.com/en-us/play
