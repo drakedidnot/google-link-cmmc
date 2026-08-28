@@ -51,3 +51,19 @@ https://cloud.boosteroid.com/
 https://cloud.boosteroid.com
 
 https://remotedesktop.google.com
+
+https://www.startpage.com/
+
+https://www.mojeek.com/
+
+https://www.qwant.com/?l=en
+
+https://www.ecosia.org/
+
+https://swisscows.com/en
+
+https://www.browserling.com/
+
+
+
+
