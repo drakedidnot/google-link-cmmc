@@ -64,6 +64,8 @@ https://swisscows.com/en
 
 https://www.browserling.com/
 
+https://web.parsec.app
+
 
 
 
