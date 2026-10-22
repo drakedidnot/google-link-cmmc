@@ -17,19 +17,14 @@ https://www.bing.com/
 
 Web Proxys
 -------------
-Rosin
 [Rosin Proxy](https://0thindustrialrevolution.org/)
 
-Cherri
 [Cherri Proxy](https://cdn.jsdelivr.net/gh/cherriunblocked/svg@main/index.svg?)
 
-Wolf Unblock
 [Wolf Proxy](https://sites.google.com/view/wolfunblock/home)
 
-Fern
 [Fern Proxy](https://readingsets.s3.amazonaws.com/math.html)
 
-Aether
 [Aether Proxy](https://niigo.s3.amazonaws.com/index.html)
 
 AI
