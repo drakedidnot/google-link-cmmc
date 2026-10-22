@@ -10,7 +10,7 @@ DuckDuckGo
 https://duckduckgo.com/
 
 Brave
-https://brave.com
+[Brave Search](https://search.brave.com/)
 
 Bing
 https://www.bing.com/
