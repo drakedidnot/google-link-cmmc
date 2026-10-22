@@ -16,8 +16,11 @@ Bing
 
 
 Web Proxys
-
+Rosin
 https://0thindustrialrevolution.org/
+
+Cherri
+https://cdn.jsdelivr.net/gh/cherriunblocked/svg@main/index.svg?
 
 
 
