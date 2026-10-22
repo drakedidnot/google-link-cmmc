@@ -68,7 +68,7 @@ https://web.parsec.app
 
 https://sites.google.com/view/wolfunblock/home
 
-https://0putlocker.org/
+
 https://0thindustrialrevolution.org/
 https://bigfund.autos/
 https://1001piecesauto.org/
@@ -77,21 +77,19 @@ https://concertante.org/
 https://pixvibes.sbs/
 https://studioexpresstt.com/
 https://4to.pics/
-science.whataburgersurvey.cfd
-gospel.newcovenant-teaching.org/
-photos.townephotography.com/
-taxi.fastaxi.org/
-ripq50.kwgranitecountertops.com
-fear.pound4poundmma.ca
-books.scottbaptist.com
-https://lnaxyd.sbs
 
 
 
 storage.googleapis.com/lilicraftzone/index.html
+
 storage.googleapis.com/luminacore/index.html
+
 storage.googleapis.com/vertexspace/index.html
+
 s3.amazonaws.com/novacraftzone/index.html
+
 s3.amazonaws.com/luminacorehi/index.html
+
 s3.amazonaws.com/vertexspace/index.html
+
 astrocore.thinkbiglearn.college/
