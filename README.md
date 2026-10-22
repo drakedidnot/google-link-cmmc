@@ -13,10 +13,10 @@ Brave
 https://brave.com
 
 Bing
-[Bing](https://www.bing.com/)
------------------------------------
+https://www.bing.com/
 
 Web Proxys
+-------------
 Rosin
 https://0thindustrialrevolution.org/
 
