@@ -42,71 +42,14 @@ https://chatgpt.com
 
 Others
 ---------
+Youtube
+https://www.youtube.
 
-
-
-
-
-[YouTube](https://www.youtube.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+GeforceNow
 https://play.geforcenow.com/mall/
 
-https://play.geforcenow.com
-
+Xbox Cloud Gaming
 https://www.xbox.com/en-us/play
 
-
-
-
-
+Remote Desktop
 https://remotedesktop.google.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
