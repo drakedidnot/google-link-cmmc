@@ -29,20 +29,8 @@ https://cdn.jsdelivr.net/gh/cherriunblocked/svg@main/index.svg?
 
 
 
-Google link
-https://www.google.com
 
-https://www.yahoo.com
 
-https://duckduckgo.com/
-
-https://brave.com
-
-[Google](https://www.google.com)
-
-<a href="https://www.google.com" target="_self">Google</a>
-
-https://cloud.boosteroid.com/dashboard
 
 https://chatgpt.com
 
@@ -56,19 +44,18 @@ https://chatgpt.com
 
 https://search.brave.com/
 
-https://cloud.boosteroid.com/auth/start
 
-[Bing](https://www.bing.com/)
+
 
 https://www.startpage.com/en/
 
 https://www.startpage.com
 
-https://boosteroid.com/dashboard/
+
 
 https://search.brave.com/search?q=boosteriod+dashboard&source=web
 
-https://boosteroid.com/games/
+
 
 https://play.geforcenow.com/mall/
 
@@ -76,9 +63,9 @@ https://play.geforcenow.com
 
 https://www.xbox.com/en-us/play
 
-https://cloud.boosteroid.com/
 
-https://cloud.boosteroid.com
+
+
 
 https://remotedesktop.google.com
 
