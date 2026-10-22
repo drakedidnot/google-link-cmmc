@@ -24,7 +24,7 @@ Web Proxys
 
 AI
 -------
-[ChstGPT](https://chatgpt.com)
+[ChatGPT](https://chatgpt.com)
 
 [Bing AI](https://www.bing.com/copilotsearch)
 
