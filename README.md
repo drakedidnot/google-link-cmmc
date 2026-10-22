@@ -34,11 +34,17 @@ https://niigo.s3.amazonaws.com/index.html
 
 AI
 -------
+ChatGPT
 https://chatgpt.com
 
+Bing AI
+https://www.bing.com/copilotsearch
 
+Gemini
+https://gemini.google.com
 
-
+Claude
+https://claude.ai/new
 
 Others
 ---------
