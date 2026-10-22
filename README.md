@@ -1,19 +1,14 @@
 Web Browser Links
 ------------------
-google
-https://www.google.com
+[Google](https://www.google.com)
 
-Yahooo
-https://www.yahoo.com
+[Yahoo](https://www.yahoo.com)
 
-DuckDuckGo
-https://duckduckgo.com/
+[DuckDuckGo](https://duckduckgo.com/)
 
-Brave
 [Brave Search](https://search.brave.com/)
 
-Bing
-https://www.bing.com/
+[Bing](https://www.bing.com/)
 
 Web Proxys
 -------------
@@ -29,28 +24,20 @@ Web Proxys
 
 AI
 -------
-ChatGPT
-https://chatgpt.com
+[ChstGPT](https://chatgpt.com)
 
-Bing AI
-https://www.bing.com/copilotsearch
+[Bing AI](https://www.bing.com/copilotsearch)
 
-Gemini
-https://gemini.google.com
+[Gemini](https://gemini.google.com)
 
-Claude
-https://claude.ai/new
+[Claude](https://claude.ai/new)
 
 Others
 ---------
-Youtube
-https://www.youtube.
+[Youtube](https://www.youtube.)
 
-GeforceNow
-https://play.geforcenow.com/mall/
+[GeforceNow](https://play.geforcenow.com/mall/)
 
-Xbox Cloud Gaming
-https://www.xbox.com/en-us/play
+[Xbox Cloud Gaming](https://www.xbox.com/en-us/play)
 
-Remote Desktop
-https://remotedesktop.google.com
+[Remote Desktop](https://remotedesktop.google.com)
