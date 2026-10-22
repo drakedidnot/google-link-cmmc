@@ -85,3 +85,13 @@ ripq50.kwgranitecountertops.com
 fear.pound4poundmma.ca
 books.scottbaptist.com
 https://lnaxyd.sbs
+
+
+
+storage.googleapis.com/lilicraftzone/index.html
+storage.googleapis.com/luminacore/index.html
+storage.googleapis.com/vertexspace/index.html
+s3.amazonaws.com/novacraftzone/index.html
+s3.amazonaws.com/luminacorehi/index.html
+s3.amazonaws.com/vertexspace/index.html
+astrocore.thinkbiglearn.college/
