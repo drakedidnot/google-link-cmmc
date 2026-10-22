@@ -32,10 +32,18 @@ AI
 
 [Claude](https://claude.ai/new)
 
-Others
+Media
 ---------
 [Youtube](https://www.youtube.)
 
+[Netflix](https://www.netflix.com/)
+
+[Spotify](https://open.spotify.com/)
+
+[Disney Plus](https://www.disneyplus.com/)
+
+Games
+-----
 [GeforceNow](https://play.geforcenow.com/mall/)
 
 [Xbox Cloud Gaming](https://www.xbox.com/en-us/play)
