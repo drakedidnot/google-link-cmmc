@@ -79,17 +79,13 @@ https://studioexpresstt.com/
 https://4to.pics/
 
 
+petah.apexflightacademy.com/
 
-storage.googleapis.com/lilicraftzone/index.html
+azino777-baee.sbs/
+azino777-baeq.sbs/
+azino777-fola.sbs/
+azino777-jola.sbs/
 
-storage.googleapis.com/luminacore/index.html
+auroramingle.cfd/
 
-storage.googleapis.com/vertexspace/index.html
-
-s3.amazonaws.com/novacraftzone/index.html
-
-s3.amazonaws.com/luminacorehi/index.html
-
-s3.amazonaws.com/vertexspace/index.html
-
-astrocore.thinkbiglearn.college/
+petezah-cdns.b-cdn.net/
