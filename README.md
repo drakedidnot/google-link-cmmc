@@ -79,13 +79,17 @@ https://studioexpresstt.com/
 https://4to.pics/
 
 
-petah.apexflightacademy.com/
+https://cdn.jsdelivr.net/gh/cherriunblocked/svg@main/index.svg?ld=0
 
-azino777-baee.sbs/
-azino777-baeq.sbs/
-azino777-fola.sbs/
-azino777-jola.sbs/
+https://chrisets.s3.amazonaws.com/math.html
 
-auroramingle.cfd/
+https://cdn.jsdelivr.net/gh/cherriunblocked/svg@main/index.svg?ld=0
 
-petezah-cdns.b-cdn.net/
+
+https://cdn.jsdelivr.net/gh/frnlol/frn@main/index.svg?ld=0
+
+https://readingsets.s3.amazonaws.com/math.html
+
+https://niigo.s3.amazonaws.com/index.html
+
+https://s3.amazonaws.com/niigo/index.html
